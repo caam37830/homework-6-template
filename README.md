@@ -5,7 +5,7 @@ In this homework, you will find the questions in [answers.ipynb](answers.ipynb).
 ## Important Information
 
 ### Due Date
-This assignment is due Monday, November 16 at 12pm (noon) Chicago time.
+This assignment is due Friday, November 20 at 12pm (noon) Chicago time.
 
 ### Grading
 
@@ -17,8 +17,8 @@ The following rubric will be used for grading.
 
 |   | Correctness | Style | Total |
 |:-:|:-:|:-:|:-:|:-:|
-| Problem 0 |   |   | /45 |
-| Problem 1 |   |   | /20 |
-| Problem 2 |   |   | /25 |
-| Problem 3 |   |   | /10 |
-| Problem 4 |   |   | /10 |
+| Problem 0 | /25  | /5 | /30 |
+| Problem 1 | /12  | /3  | /15 |
+| Problem 2 | /12  | /3  | /15 |
+| Problem 3 | /15  | /5  | /20 |
+| Problem 4 | /15  | /5  | /20 |
