@@ -16,7 +16,7 @@ There is no autograder.  Points will be based on the contents of `answers.ipynb`
 The following rubric will be used for grading.
 
 |   | Correctness | Style | Total |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 | Problem 0 | /25  | /5 | /30 |
 | Problem 1 | /12  | /3  | /15 |
 | Problem 2 | /12  | /3  | /15 |
