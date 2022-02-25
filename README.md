@@ -5,7 +5,7 @@ In this homework, you will find the questions in [answers.ipynb](answers.ipynb).
 ## Important Information
 
 ### Due Date
-This assignment is due Friday, November 20 at 12pm (noon) Chicago time.
+This assignment is due Friday, March 4 at 11:59pm (midnight) Chicago time.
 
 ### Grading
 
